@@ -2,7 +2,6 @@
   "name": "MARKETING",
   "version": "1.0.0",
   "description": "",
-  "homepage1": "https://github.com/SeredniaAnastasia/marketing",
   "homepage": "./",
   "main": "gulpfile.js",
   "scripts": {
